@@ -1,8 +1,15 @@
 # Singapore-Resale-Flat-Prices-Predicting
 
-## Problem Statement:
+## Introduction :
 
-The objective of this project is to develop a machine learning model and deploy it as a user-friendly web application that predicts the resale prices of flats in Singapore. This predictive model will be based on historical data of resale flat transactions, and it aims to assist both potential buyers and sellers in estimating the resale value of a flat.
+This project aims to develop a machine learning model and create a user-friendly online application to predict accurate resale values for apartments in Singapore. Using historical resale transactions data, the model considers factors such as location, apartment type, size, and lease duration to estimate the future resale price. The goal is to assist both buyers and sellers by providing a reliable prediction tool for evaluating the worth of a previously resold flat. This predictive model addresses challenges associated with diverse influencing factors and empowers users with expected resale prices, enhancing decision-making in the real estate market.
+
+## Requirements :
+
+* Python
+* Pandas
+* Numpy 
+* Streamlit
 
 ## Motivation:
 
